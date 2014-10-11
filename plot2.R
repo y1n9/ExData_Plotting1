@@ -1,4 +1,3 @@
-setwd("/home/grace/Dropbox/Development/Coursera 04_Exploratory Data Analysis/Project1")
 filename <- "household_power_consumption.txt"
 
 # read data  
